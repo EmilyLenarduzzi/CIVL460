@@ -1,2 +1,2 @@
 # CIVL460
-Queens University Advanced Performance Analysis for Sustainable Future
+Queen's University Advanced Performance Analysis for Sustainable Future
